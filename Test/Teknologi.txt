@@ -1,0 +1,5 @@
+﻿Teknologier:
+Server
+	Vi skal bruge en servere til at hoste vores site.
+WAN
+	Vi skal bruge WAN til at sende data til brugerne, fra severne.
