@@ -6,7 +6,13 @@ navbar-brand {
   text-align: center;
   word-break: break-all;
 }
+.nav-item{
+   
+}
 
+.float-right{
+    margin-left: 50%;
+}
 /* Sticky footer styles
 -------------------------------------------------- */
 html {
