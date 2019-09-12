@@ -3,3 +3,13 @@ Server
 	Vi skal bruge en servere til at hoste vores site.
 WAN
 	Vi skal bruge WAN til at sende data til brugerne, fra severne.
+TCP/IP
+	Vi bruger TCP/IP npr brugeren skal hente data fra serveren.
+MAC
+	Mac adressen bliver brugt til at dataende der bliver sendt ud på et netværk kan finde den rette modtager.
+OSI
+	Osi modellen bliver brugt til at pakke, udpakke og adressere filer på et netværk.
+Router
+	Routeren bliver brugt til at tilgå andre netværk ind LAN'et i dette tilfælde internettet.
+Switch
+	Switches bliver brugt til at sende data pakker over et netværk
